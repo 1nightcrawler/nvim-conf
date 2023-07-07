@@ -30,4 +30,4 @@ nmap <F8> :TagbarToggle<CR>
 
 :set completeopt-=preview " For No Previews
 
-" :colorscheme nightfox
+

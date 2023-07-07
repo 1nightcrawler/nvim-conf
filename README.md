@@ -1,2 +1,2 @@
 # nvim-conf
-mjau
+Nvim config file
